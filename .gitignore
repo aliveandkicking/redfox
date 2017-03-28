@@ -52,10 +52,7 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 /__tests__
-/android
-/ios
 /node_modules
-/android
 /rebuild.bat
 /reverse_ip.bat
 /start.bat
